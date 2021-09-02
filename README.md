@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Sneha!](https://github.com/Sneha421)
+- 👋 Hi, I’m Sneha!
 - 👀 I’m interested in Artificial Intelligence, Machine Learning and Deep Learning
 - 🌱 I’m currently learning Computer Vision, Natural Language Processing and AWS
 - 💞️ I’m looking to collaborate on Data Science Projects
